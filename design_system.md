@@ -1,3 +1,5 @@
+
+
 The HTML code defines a basic webpage structure with a <head> element for metadata and a <body> element for the content. The content includes a <h1> element with the title "Tic Tac Toe", a <table> element with 9 <td> elements for the game board, and a <script> element that references an external JavaScript file.
 
 The CSS code defines the styling for the webpage elements. The table selector defines the border style and centering of the game board, the td selector defines the size, border style, and font size of the individual game cells, the h1 selector defines the centering and color of the title, and the tr selector defines the text color of the rows.
